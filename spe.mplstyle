@@ -1,0 +1,61 @@
+### LINES
+lines.linewidth: 3
+lines.solid_capstyle: butt
+
+### PATCHES
+patch.edgecolor: fafafa
+patch.linewidth: 0.5
+
+### FONT
+font.size: 13.0
+font.family  monospace
+
+### TEXT
+
+### AXES
+axes.color_cycle: 4587de, ffc500, f84525, 66cdaa, a1a1a1
+                   # 4587de : blue
+                   # ffc500 : yellow
+                   # f84525 : red
+                   # 66cdaa : green
+                   # a1a1a1 : grey
+
+axes.facecolor: fafafa #cavas
+axes.edgecolor: fafafa
+
+axes.labelsize: large
+axes.axisbelow: true
+axes.grid: true
+
+axes.linewidth: 3.0
+axes.titlesize: x-large
+
+### TICKS
+xtick.major.size: 0
+xtick.minor.size: 0
+ytick.major.size: 0
+ytick.minor.size: 0
+
+### GRIDS
+grid.color: fafafa
+
+### Legend
+legend.fancybox: true
+
+### FIGURE
+figure.subplot.left: 0.08
+figure.subplot.right: 0.95
+figure.subplot.bottom: 0.07
+figure.facecolor: fafafa
+
+### IMAGES
+### CONTOUR PLOTS
+### Agg rendering
+
+### SAVING FIGURES
+savefig.edgecolor: fafafa
+savefig.facecolor: fafafa
+
+svg.fonttype: path
+
+###ANIMATION settings
